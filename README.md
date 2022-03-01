@@ -1,2 +1,2 @@
 # portAllan-
-Portafolio de proyectos desarrollo web por Allan Espinoza 
+Portafolio de proyectos de Allan Espinoza sobre desarrollo web. 
